@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Some Research Papers 
-- 🌱 I’m currently Finishing my nano degree in Embedded systems 
+- 🌱 I’m currently Finishing Professional Track in Embedded systems 
 - 👯 I’m looking to collaborate on more Project Related to Motion Planning 
 - 📫 How to reach me: mostafa.saad@ejust.edu.eg
 - 😄 You can Call me Mox 
