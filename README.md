@@ -11,6 +11,7 @@ Expertise:
 - ROS2: I'm also familiar with ROS2, the next-generation Robot Operating System.
 - Robotics: I have a strong background in robotics and have worked on various robotic systems.
 - Control: I specialize in control systems for robots, ensuring precise and efficient movements.
+- AI (Artificial Intelligence): I have a keen interest in AI and its applications in robotics. I'm experienced in leveraging AI techniques to enhance robot perception, decision-making, and learning capabilities.
 
 If you have any questions or want to discuss exciting projects related to ROS, ROS2, robotics, or control, feel free to reach out! Let's collaborate and bring innovative ideas to life.
 
