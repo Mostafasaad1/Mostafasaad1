@@ -1,7 +1,7 @@
 ### Hey there! 👋
 - 🔭 I'm currently diving into the world of research papers.
 - 🌱 I'm putting the finishing touches on my Professional Track in Embedded Systems.
-- 👯 I'm eager to collaborate on exciting projects centered around Motion Planning.
+- 👯 I'm eager to collaborate on exciting projects centered around Motion Planning and AI .
 - 📫 You can reach me at mostafa.saad@ejust.edu.eg / mostafa.saad.1tb@gmail.com.
 - 😄 Feel free to call me Mox!
   
