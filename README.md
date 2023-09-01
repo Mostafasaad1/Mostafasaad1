@@ -2,7 +2,7 @@
 - 🔭 I'm currently diving into the world of research papers.
 - 🌱 I'm putting the finishing touches on my Professional Track in Embedded Systems.
 - 👯 I'm eager to collaborate on exciting projects centered around Motion Planning.
-- 📫 You can reach me at mostafa.saad@ejust.edu.eg.
+- 📫 You can reach me at mostafa.saad@ejust.edu.eg / mostafa.saad.1tb@gmail.com.
 - 😄 Feel free to call me Mox!
 Expertise:
 
